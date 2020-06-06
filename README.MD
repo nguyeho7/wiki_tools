@@ -3,8 +3,8 @@ This repo contains a set of tools to parse and convert various json formats betw
 
 Currently plans are for:
 * DayOne to TiddlyWiki5 (tw5)
-  * Use spacy for entity tagging to generate potential TW5 links
-  * Use Google Vision API for advanced image tagging 
+  * Use spacy for entity tagging to generate potential TW5 links [Done]
+  * Use Google Vision API for advanced image tagging [TODO]
 * TiddlyWiki5 to DocuWiki
 
 ## DayOne to TW5
@@ -24,4 +24,8 @@ python -m unittest test/dayone_to_tw5_test.py
 ```
 
 ### Usage
-* Modify name_expand
+* Export DayOne data to json format, extract in repo folder
+* Modify name_expand.json and addd names
+```
+python3 -m tw5_tools.dayone_to_tw5 <day_one_extract>/your_journal.json name_expand.json <tw5_output_name>.json
+```
