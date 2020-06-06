@@ -1,0 +1,106 @@
+{
+"metadata" : {
+  "version" : "1.0"
+},
+"entries" : [
+{
+  "creationDeviceType" : "iPhone",
+  "duration" : 0,
+  "uuid" : "123131313",
+  "creationOSName" : "iOS",
+  "creationDeviceModel" : "iPhone9,2",
+  "creationDevice" : "iPhone",
+  "creationDate" : "2018-07-08T22:46:53Z",
+  "editingTime" : 0,
+  "location": {
+      "region": {
+          "center": {
+              "longitude": 40.0333332,
+              "latitude": -76.626497494
+          },
+          "radius": 75
+      },
+      "localityName": "Hell",
+      "country": "Norway",
+      "longitude": 40.0333332,
+      "administrativeArea": "Hell city",
+      "placeName": "who_knows",
+      "latitude": -76.626497494
+  },
+
+  "modifiedDate" : "2018-10-16T07:37:44Z",
+  "weather" : {
+    "sunsetDate" : "2018-07-09T03:30:50Z",
+    "weatherCode" : "clear",
+    "weatherServiceName" : "HAMweather",
+    "temperatureCelsius" : 27,
+    "windBearing" : 290,
+    "sunriseDate" : "2018-07-08T12:55:02Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1015,
+    "moonPhase" : 0,
+    "visibilityKM" : 16.093439102172852,
+    "relativeHumidity" : 38,
+    "windSpeedKPH" : 22,
+    "windChillCelsius" : 28
+  },
+  "text" : "Today i stayed at home to \"work\" but I wasn't very productive. I texted Peter",
+  "starred" : false,
+  "creationOSVersion" : "11.2.6",
+  "timeZone" : "America\/Los_Angeles"
+},
+{
+  "userActivity" : {
+    "activityName" : "Walking",
+    "stepCount" : 9707
+  },
+  "text" : "Found a cat while running\n\n![](dayone-moment:\/\/BEEE45FC6FDF492B9E7D2249F3B52DAE)",
+  "creationDeviceType" : "iPhone",
+  "creationDate" : "2018-07-12T03:54:23Z",
+  "timeZone" : "America\/Los_Angeles",
+  "creationDevice" : "Long Hoang’s iPhone",
+  "creationDeviceModel" : "iPhone9,2",
+  "modifiedDate" : "2018-10-16T07:37:44Z",
+  "sourceString" : "photomoment-15D8C388-D278-4F2F-B88F-15178C72AB6A\/L0\/060",
+  "photos" : [
+    {
+      "cameraMake" : "Apple",
+      "fnumber" : "1.8",
+      "orderInEntry" : 0,
+      "lensMake" : "Apple",
+      "width" : 1575,
+      "cameraModel" : "iPhone 7 Plus",
+      "type" : "jpeg",
+      "identifier" : "BEEE45FC6FDF492B9E7D2249F3B52DAE",
+      "date" : "2018-07-12T03:54:23Z",
+      "exposureBiasValue" : 0,
+      "location": {
+          "region": {
+              "center": {
+                  "longitude": 40.0333332,
+                  "latitude": -76.626497494
+              },
+              "radius": 75
+          },
+          "localityName": "Hell",
+          "country": "Norway",
+          "longitude": 40.0333332,
+          "administrativeArea": "Hell city",
+          "placeName": "who_knows",
+          "latitude": -76.626497494
+      },
+      "isSketch" : false,
+      "lensModel" : "iPhone 7 Plus back dual camera 3.99mm f\/1.8",
+      "height" : 2100,
+      "md5" : "5c4f204f6ea8cb4201744bc87f97a40c",
+      "focalLength" : "3.99"
+    }
+  ],
+  "creationOSName" : "iOS",
+  "editingTime" : 0,
+  "starred" : false,
+  "uuid" : "8E445A0DB65949E5818CB401468D9ED3",
+  "creationOSVersion" : "11.2.6",
+  "duration" : 0
+}
+]}
